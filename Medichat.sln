@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBot", "CoreBot\CoreBot.csproj", "{EF1A40CE-80F1-4961-B29A-972A5AA94921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{B381167C-05D1-4EBE-A003-479466E61FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3AA44ADB-142D-405A-BBE1-6EFFF6B0D4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1A40CE-80F1-4961-B29A-972A5AA94921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1A40CE-80F1-4961-B29A-972A5AA94921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1A40CE-80F1-4961-B29A-972A5AA94921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1A40CE-80F1-4961-B29A-972A5AA94921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B381167C-05D1-4EBE-A003-479466E61FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B381167C-05D1-4EBE-A003-479466E61FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B381167C-05D1-4EBE-A003-479466E61FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B381167C-05D1-4EBE-A003-479466E61FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA44ADB-142D-405A-BBE1-6EFFF6B0D4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA44ADB-142D-405A-BBE1-6EFFF6B0D4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA44ADB-142D-405A-BBE1-6EFFF6B0D4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA44ADB-142D-405A-BBE1-6EFFF6B0D4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

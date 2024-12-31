@@ -1,0 +1,14 @@
+﻿.idea/
+.vs/
+
+bin/
+obj/
+
+# appsettings contains keys for deployment
+appsettings.json
+appsettings.Development.json
+
+**.DotSettings.user
+
+**/ServiceDependencies
+**/PublishProfiles
